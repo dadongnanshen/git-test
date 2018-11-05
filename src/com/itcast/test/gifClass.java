@@ -12,5 +12,14 @@ public class gifClass {
         System.out.println("hello  idea?");
         System.out.println("hello  idea?");
         System.out.println("hello  idea?");
+        System.out.println("hello  idea?");
+        System.out.println("hello  idea?");
     }
+
+    public   void test(){
+        int i =10;
+        i   += 10;
+
+    }
+
 }
