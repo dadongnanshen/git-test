@@ -17,7 +17,7 @@ public class gifClass {
     }
 
     public   void test(){
-        int i =10;
+        int i =0;
         i   += 10;
 
     }
