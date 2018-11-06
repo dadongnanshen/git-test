@@ -21,6 +21,7 @@ public class gifClass {
         System.out.println("我是喵喵");
         System.out.println("我是喵喵");
         System.out.println("我是喵喵");
+        System.out.println("我是喵喵");
     }
 
     public   void test(){
